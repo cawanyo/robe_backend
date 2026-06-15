@@ -1,0 +1,6 @@
+.env
+*.ipynb
+models/*
+models
+models/u2net/
+*.onnx
